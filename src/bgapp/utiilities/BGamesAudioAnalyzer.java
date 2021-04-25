@@ -165,7 +165,7 @@ public class BGamesAudioAnalyzer implements PluginMethods{
             
             -------------------------------------------------------------------------------------------
             */
-            socket2 = IO.socket("http://144.126.216.255:3011");
+            socket2 = IO.socket("http://164.90.156.141:3011");
 
         } catch (URISyntaxException ex) {
             Logger.getLogger(BGamesAudioAnalyzer.class.getName()).log(Level.SEVERE, null, ex);
